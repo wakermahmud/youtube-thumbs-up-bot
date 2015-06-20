@@ -1,0 +1,1 @@
+This is my first java application. This program requires you to type in your youtube username or password, then type in a target youtube user, then select uploads or favorites, then select how many videos of theirs you would like to thumbs up. and that's it.
